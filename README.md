@@ -1,17 +1,173 @@
-# 💫 About Me:
-Hi, I’m Preeti Chaurasia — an aspiring Software Engineer passionate about building impactful and intelligent web applications.<br>I enjoy working on full-stack development, Web Devlopment, AI-integrated projects, and solving real-world problems through technology.<br><br>🚀 Working on AI-based and solving real-world problems through technology<br>💡 Skilled in React, Node.js, Python, Java, PHP, .Net and Databases.<br>🏆 SIH Finalist with experience in innovation and teamwork<br>📚 Continuously learning modern technologies and problem-solving<br>🎯 Aspiring to create meaningful tech solutions that make a real impact
+<div align="center">
 
+# Hi 👋, I'm Preeti Chaurasia
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preeti-chaurasia-209249326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaurasiapreeti490@gmail.com) 
+### 💻 Computer Engineering Student | Full Stack Developer | AI Enthusiast
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=preeti-Chaurasia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=preeti-Chaurasia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=preeti-Chaurasia&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=preeti-Chaurasia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+I'm **Preeti Chaurasia**, a Computer Engineering student passionate about building intelligent software that solves real-world problems.
+
+I enjoy combining **AI, Full Stack Development, and Modern Web Technologies** to create impactful applications in healthcare, education, and automation.
+
+🏆 Smart India Hackathon 2025 Finalist
+
+💼 Frontend Developer Intern at Krtya Technologies Pvt. Ltd.
+
+❤️ Passionate about AI + Healthcare + Full Stack Development
+
+🌱 Currently learning
+
+- Advanced React
+- Next.js
+- AI Agents
+- Cloud Computing
+- Docker
+
+🎯 Goal
+
+Become a Software Engineer building AI-powered products that improve people's lives.
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+## Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+## Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+---
+
+# 🌟 Featured Projects
+
+## 🏥 MedOS Core
+
+AI-powered Hospital Management Platform with role-based dashboards, patient management, appointment scheduling, authentication, and analytics.
+
+Tech Stack
+
+React • Node.js • Express • MongoDB • JWT
+
+---
+
+## 🤖 SmartCare AI
+
+Healthcare platform integrating AI features for patient management and intelligent assistance.
+
+Tech Stack
+
+React • TypeScript • AI • Node.js
+
+---
+
+## 🧬 Digital Contact Tracing & Screening Tool
+
+Smart India Hackathon project for monitoring MDR pathogen transmission inside hospitals.
+
+Features
+
+- AI Voice Bot
+- Contact Tracing
+- Infection Chain Visualization
+- Dashboard Analytics
+
+---
+
+## 🏃 Athlete OS
+
+AI-powered Sports Platform
+
+Features
+
+- AI Coach
+- AI Diet Planner
+- Injury Prediction
+- Performance Analytics
+
+---
+
+# 🏆 Achievements
+
+🥇 Smart India Hackathon 2025 Finalist
+
+💼 Frontend Developer Intern
+
+🚀 Built Multiple AI + Full Stack Projects
+
+💻 Active Open Source Learner
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=preeti-Chaurasia&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=preeti-Chaurasia&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=preeti-Chaurasia&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 📈 Contribution Graph
+
+[![Preeti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=preeti-Chaurasia&theme=tokyo-night)](https://github.com/preeti-Chaurasia)
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/preeti-chaurasia-209249326">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:chaurasiapreeti490@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+
+</div>
