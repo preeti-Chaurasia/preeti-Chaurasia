@@ -1,173 +1,129 @@
-<div align="center">
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Preeti Chaurasia</h1>
 
-# Hi 👋, I'm Preeti Chaurasia
+<h3 align="center">
+Aspiring Software Engineer • Full Stack Developer • AI Enthusiast
+</h3>
 
-### 💻 Computer Engineering Student | Full Stack Developer | AI Enthusiast
-
-<img src="https://komarev.com/ghpvc/?username=preeti-Chaurasia&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🚀 About Me
-
-I'm **Preeti Chaurasia**, a Computer Engineering student passionate about building intelligent software that solves real-world problems.
-
-I enjoy combining **AI, Full Stack Development, and Modern Web Technologies** to create impactful applications in healthcare, education, and automation.
-
-🏆 Smart India Hackathon 2025 Finalist
-
-💼 Frontend Developer Intern at Krtya Technologies Pvt. Ltd.
-
-❤️ Passionate about AI + Healthcare + Full Stack Development
-
-🌱 Currently learning
-
-- Advanced React
-- Next.js
-- AI Agents
-- Cloud Computing
-- Docker
-
-🎯 Goal
-
-Become a Software Engineer building AI-powered products that improve people's lives.
+<p align="center">
+Building modern web applications that solve real-world problems.
+</p>
 
 ---
 
-# 💻 Tech Stack
+# 💫 About Me
 
-## Languages
+💻 Computer Engineering Student passionate about creating impactful software.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+🚀 Currently building Full Stack and AI-powered applications.
 
-## Frontend
+🌱 Exploring AI Integration, Cloud, System Design and scalable backend development.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+🏆 Smart India Hackathon Finalist with experience in teamwork, innovation and rapid problem-solving.
 
-## Backend
+🎯 My goal is to become a Software Engineer who builds products used by millions.
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+⚡ Fun Fact: I enjoy turning ideas into real applications.
 
 ---
 
-# 🌟 Featured Projects
+# 🛠 Tech Stack
 
-## 🏥 MedOS Core
+### Languages
 
-AI-powered Hospital Management Platform with role-based dashboards, patient management, appointment scheduling, authentication, and analytics.
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,php," />
+</p>
 
-Tech Stack
+### Frontend
 
-React • Node.js • Express • MongoDB • JWT
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,dotnet,flask,laravel" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+NumPy • Pandas • Matplotlib • Scikit-Learn
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vercel,postman,vscode" />
+</p>
 
 ---
 
-## 🤖 SmartCare AI
+# 🚀 Currently Working On
 
-Healthcare platform integrating AI features for patient management and intelligent assistance.
-
-Tech Stack
-
-React • TypeScript • AI • Node.js
-
----
-
-## 🧬 Digital Contact Tracing & Screening Tool
-
-Smart India Hackathon project for monitoring MDR pathogen transmission inside hospitals.
-
-Features
-
-- AI Voice Bot
-- Contact Tracing
-- Infection Chain Visualization
-- Dashboard Analytics
+- 🤖 AI-powered Web Applications
+- 🌐 MERN Stack Projects
+- ☁️ Cloud Deployment
+- 📚 Data Structures & Algorithms
+- 🧠 Learning System Design
 
 ---
+# 📊 GitHub Analytics
 
-## 🏃 Athlete OS
+<p align="center">
 
-AI-powered Sports Platform
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=preeti-Chaurasia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-Features
+<img width="49%" src="https://streak-stats.demolab.com?user=preeti-Chaurasia&theme=tokyonight&hide_border=true"/>
 
-- AI Coach
-- AI Diet Planner
-- Injury Prediction
-- Performance Analytics
+</p>
 
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preeti-Chaurasia&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preeti-Chaurasia&theme=tokyonight"/>
+
+</p>
 ---
 
 # 🏆 Achievements
 
-🥇 Smart India Hackathon 2025 Finalist
+🏅 Smart India Hackathon Finalist
 
-💼 Frontend Developer Intern
+💡 Built Full Stack Applications
 
-🚀 Built Multiple AI + Full Stack Projects
+🤝 Passionate about Open Source & Team Collaboration
 
-💻 Active Open Source Learner
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=preeti-Chaurasia&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=preeti-Chaurasia&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=preeti-Chaurasia&layout=compact&theme=tokyonight&hide_border=true)
+🚀 Continuously learning modern technologies
 
 ---
 
-# 📈 Contribution Graph
-
-[![Preeti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=preeti-Chaurasia&theme=tokyo-night)](https://github.com/preeti-Chaurasia)
-
----
-
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/preeti-chaurasia-209249326">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:chaurasiapreeti490@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-
-</div>
+⭐ Thanks for visiting my profile!
+Let's build something amazing together.
